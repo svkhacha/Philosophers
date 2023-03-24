@@ -13,6 +13,8 @@ This project is about the basics of threading a process, how to create threads a
 ***./philo 4 310 200 100*** - One Philosopher should die. <br>
 
 ## Useful resources
+• <a href = "https://prezi.com/view/fCnFsuYuhrXwcWz3cZaV/" target= "_blank">My presentation about **"Threads and Processes"** </a>
+
 • https://linuxhint.com/the-usleep-3-function-in-c/
 
 • https://linuxhint.com/gettimeofday_c_language/
@@ -24,8 +26,6 @@ This project is about the basics of threading a process, how to create threads a
 • https://www.geeksforgeeks.org/mutex-lock-for-linux-thread-synchronization/
 
 • https://www.youtube.com/watch?v=NbwbQQB7xNQ
-
-• <a href = "https://prezi.com/view/fCnFsuYuhrXwcWz3cZaV/" target= "_blank">My presentation about **"Threads and Processes"** </a>
 
 • <a href = "https://code-vault.net/course/6q6s9eerd0:1609007479575" target = "_blank">UNIX Threads in C </a>
 
